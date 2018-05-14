@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rejestracja</string>
+    <string name="title_activity_rejestracja__dla__klienta">Rejestracja_Dla_Klienta</string>
+    <string name="title_activity_aptekarz_mode">AptekarzMode</string>
+    <string name="konto">KONTO</string>
+    <string name="koszyk">KOSZYK</string>
+    <string name="dodaj_recepte">DODAJ RECEPTĘ</string>
+    <string name="ustawienia">USTAWIENIA</string>
+    <string name="faq">FAQ</string>
+    <string name="wyloguj">WYLOGUJ</string>
+    <string name="realizacja_recepty">REALIZACJA RECEPTY</string>
+    <string name="dodaj_lek">DODAJ LEK</string>
+    <string name="edytuj_lek">EDYTUJ LEK</string>
+    <string name="usun_lek">USUN LEK</string>
+    <string name="zarejestruj">ZAREJESTRUJ</string>
+    <string name="zaloguj">ZALOGUJ</string>
+    <string name="o_aplikacji">O APLIKACJI</string>
+
+
+
+
+</resources>
